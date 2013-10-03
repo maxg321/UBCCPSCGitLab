@@ -11,6 +11,7 @@ Machelle Maston,EN,0,5
 Constance Cupps,FR,0,3
 Jonell Joslin,FR,0,1
 Tana Theel,EN,2,6
+Maxwell Gordon,CA,4,7
 Florencio Friley,FR,0,0
 Lacy Lepley,EN,0,2
 Larita Luedke,FR,0,0
