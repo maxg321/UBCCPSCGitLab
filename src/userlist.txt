@@ -11,7 +11,7 @@ Machelle Maston,EN,0,5
 Constance Cupps,FR,0,3
 Jonell Joslin,FR,0,1
 Tana Theel,EN,2,6
-Maxwell Gordon,FR,2,3
+Sam James,FR,2,3
 James Bird,FR,4,3
 Phil Morris,EN,0,1
 Lacy Lepley,EN,0,2
